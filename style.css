@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+  
+
+}
+
+
+.i{
+    background:linear-gradient(135deg,#00febaf6,#5b548af3);
+    /* background-image: url(https://www.hdwallpapers.in/download/falling_rain_drops_on_white_umbrella_hd_rain-HD.jpg);
+    background-size: cover; */
+}
+.o{
+    height: 70px;
+    width: 90px;
+    background-color: grey;
+}
