@@ -31,6 +31,7 @@ async function checkWheather(){
     }
     wind.innerHTML=data.wind.speed +'Km/h'
     humidity.innerHTML=data.main.humidity +"%"
+    condition.innerHTML=data.weather[0].main
    
 
   
